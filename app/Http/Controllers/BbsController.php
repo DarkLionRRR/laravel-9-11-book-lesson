@@ -7,7 +7,6 @@ use Illuminate\Http\Response;
 use Illuminate\Contracts\Routing\ResponseFactory;
 use Illuminate\Contracts\View\Factory as ViewFactory;
 use Illuminate\Contracts\View\View;
-use Illuminate\Http\Request;
 
 class BbsController extends Controller
 {
